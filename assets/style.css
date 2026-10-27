@@ -38,3 +38,6 @@ footer.site a{margin-right:12px}
 details{margin:8px 0;border:1px solid var(--line);border-radius:6px;padding:8px 12px}
 summary{cursor:pointer;font-weight:600}
 @media (max-width:600px){body{font-size:15.5px}h1{font-size:1.4rem}}
+.notice summary{cursor:pointer;list-style-position:inside}
+.notice details p{margin:6px 0 2px}
+@media(max-width:699px){.notice{font-size:13px;padding:8px 10px;margin:10px 0}}
