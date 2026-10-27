@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j6-cloude.github.io/ai-ipo-guide/sitemap.xml
